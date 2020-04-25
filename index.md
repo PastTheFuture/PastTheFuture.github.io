@@ -16,15 +16,15 @@
       <td style="width: 33.3333%; height: 62px; text-align: center; vertical-align: top;">
         <p><span style="text-decoration: underline;"><strong>Player List:</strong></span><br />Cruz<br />Dale<br />Erica<br />Erka<br />Jeremy<br />Jesse<br />Kate<br />Trevor<br />Tyler</p>
       </td>
-      <td style="width: 33.3333%; height: 62px; text-align: center;">&nbsp;</td>
+      <td style="width: 33.3333%; height: 62px; text-align: center;">stuff</td>
     </tr>
     <tr>
       <td style="width: 33.3333%; text-align: center;">
         <p>Some stuff here fool</p>
         <p>&nbsp;</p>
       </td>
-      <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
-      <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+      <td style="width: 33.3333%; text-align: center;">stuff</td>
+      <td style="width: 33.3333%; text-align: center;">stuff</td>
     </tr>
   </tbody>
 </table>

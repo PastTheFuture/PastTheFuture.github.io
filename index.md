@@ -92,7 +92,7 @@
 				<br /> Wayvine
 				<br /> Fairweather
 				<br /> Sepulchre
-				<br /> Ostenwall
+				<br /> <a href="majorlocations\Ostenwall.html">Ostenwall</a> 
 			</div>
 			<div class="column" style="float: left; width: 33.33%;">
 				<span style="text-decoration: underline;"><strong>Factions</strong></span><br />

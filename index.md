@@ -26,7 +26,7 @@
 				<br />
 				<a href="https://cdn.discordapp.com/attachments/703069043258556507/703437394082529322/Door_Loderr_Character_Sheet.pdf" target="_blank" rel="noopener">Door (Ben)</a>
 				<br />
-				<a href="https://cdn.discordapp.com/attachments/703069043258556507/703069686010478612/West_Marches-Ezekiel_Archeon.pdf" target="_blank" rel="noopener">Ezekiel Archeon (Jeremy)</a>
+				<a href="https://cdn.discordapp.com/attachments/703069043258556507/703672294861701250/West_Marches-Ezekiel_Archeon_shareable.pdf" target="_blank" rel="noopener">Ezekiel Archeon (Jeremy)</a>
 				<br />
 				<a href="https://cdn.discordapp.com/attachments/703069043258556507/703074596089364611/Character_Sheet_-_Martin_Madd.pdf" target="_blank" rel="noopener">Matin Madd (Dale)</a>
 				<br /> 

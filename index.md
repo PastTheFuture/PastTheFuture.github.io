@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -74,6 +73,7 @@
 				<span style="text-decoration: underline;"><strong>Regions</strong></span>
 				<br /> Bitterlands (Unexplored)
 				<br /> <a href="regions\BlossomingWastes.html">Blossoming Wastes (Unexplored)</a> 
+				<br /> &emsp; - <a href="regions\TheVerge.html">The Verge (Unexplored)</a> 
 				<br /> Dread Isles (Unexplored)
 				<br /> Gloomwood (Unexplored)
 				<br /> Goldenvale Plains (Unexplored)
@@ -84,6 +84,15 @@
 			<div class="column" style="float: left; width: 33.33%;">
 				<span style="text-decoration: underline;"><strong>Major Locations</strong></span>
 				<br /> <a href="majorlocations\Thorngate.html">Thorngate</a> 
+				<br /> Bloodstone
+				<br /> Skullbridge
+				<br /> Weaverstead
+				<br /> Tanglewater
+				<br /> Goldenleaf
+				<br /> Wayvine
+				<br /> Fairweather
+				<br /> Sepulchre
+				<br /> Ostenwall
 			</div>
 			<div class="column" style="float: left; width: 33.33%;">
 				<span style="text-decoration: underline;"><strong>Factions</strong></span><br />

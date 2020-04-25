@@ -9,6 +9,7 @@
 			margin: 0 auto;
 			padding: 0px;
 			width: 50%;
+			min-width: 750px;
 		}
     </style>
 </head>
@@ -34,7 +35,7 @@
 				<br />
 				<a href="https://cdn.discordapp.com/attachments/703069043258556507/703076141942046740/Thalia.pdf" target="_blank" rel="noopener">Thalia Quicksilver (Kate)</a>
 				<br />
-				<a href="https://discordapp.com/channels/702388461780467773/703069043258556507/703124161479966762" target="_blank" rel="noopener">Vatra Skal (Cruz)</a>
+				<a href="https://drive.google.com/file/d/1Y57sIrVjLGIrMqCv_FI7aBzOXXmMM8Vi/view?usp=sharing" target="_blank" rel="noopener">Vatra Skal (Cruz)</a>
 				<br />
 				<a href="https://cdn.discordapp.com/attachments/703069043258556507/703069333185626142/Wind_in_the_Trees.pdf" target="_blank" rel="noopener">Wind in the Trees (Tyler)</a>
 				<br /><br />

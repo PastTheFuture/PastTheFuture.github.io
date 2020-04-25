@@ -18,7 +18,9 @@
 		<span style="text-align:center;text-decoration: underline;"><h1>West Marches Campaign</h1></span>
 		<div class="row" style="margin: 0 auto; overflow: hidden; padding: 20px;">
 			<div class="column" style="float: left; width: 33.33%;">
-				<span style="text-decoration: underline;"><strong>Character Roster</strong></span>
+				<span style="text-decoration: underline;"><strong>Character Sheets</strong></span>
+				<br />
+				&emsp; - Alive -
 				<br />
 				<a href="https://cdn.discordapp.com/attachments/703069043258556507/703071034500317204/Cassius.pdf" target="_blank" rel="noopener">Cassius de Ostenwall (Jesse)</a>
 				<br />
@@ -35,7 +37,8 @@
 				<a href="https://discordapp.com/channels/702388461780467773/703069043258556507/703124161479966762" target="_blank" rel="noopener">Vatra Skal (Cruz)</a>
 				<br />
 				<a href="https://cdn.discordapp.com/attachments/703069043258556507/703069333185626142/Wind_in_the_Trees.pdf" target="_blank" rel="noopener">Wind in the Trees (Tyler)</a>
-				<br />
+				<br /><br />
+				&emsp; - Dead -
 			</div>
 			<div class="column" style="float: left; width: 33.33%;">
 				<span style="text-decoration: underline;"><strong>Player List:</strong></span>

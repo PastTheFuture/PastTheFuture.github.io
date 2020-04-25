@@ -20,6 +20,7 @@
     </tr>
     <tr>
       <td style="width: 33.3333%; text-align: center;">
+        <p>Some stuff here fool</p>
         <p>&nbsp;</p>
       </td>
       <td style="width: 33.3333%; text-align: center;">&nbsp;</td>

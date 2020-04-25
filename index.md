@@ -42,13 +42,13 @@
 			</div>
 			<div class="column" style="float: left; width: 33.33%;">
 				<span style="text-decoration: underline;"><strong>Player List:</strong></span>
-				<br /> Ben
+				<br /> Ben - <a href="https://www.youtube.com/channel/UCx0zEb5IZ5SiabJJX2lsK_g" target="_blank" rel="noopener">Youtube</a>
 				<br /> Cruz
 				<br /> Dale
 				<br /> Erica
 				<br /> Erka
 				<br /> Jeremy
-				<br /> Jesse
+				<br /> Jesse - <a href="https://github.com/PastTheFuture" target="_blank" rel="noopener">Github</a>
 				<br /> Kate
 				<br /> Trevor
 				<br /> Tyler

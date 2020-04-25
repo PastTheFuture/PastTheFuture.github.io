@@ -78,7 +78,8 @@
 				<br /> Titan's Shelf (Unexplored)
 			</div>
 			<div class="column" style="float: left; width: 33.33%;">
-				<span style="text-decoration: underline;"><strong>Major Locations</strong></span><br />
+				<span style="text-decoration: underline;"><strong>Major Locations</strong></span>
+				<br /> <a href="majorlocations\Thorngate.html">Thorngate</a> 
 			</div>
 			<div class="column" style="float: left; width: 33.33%;">
 				<span style="text-decoration: underline;"><strong>Factions</strong></span><br />

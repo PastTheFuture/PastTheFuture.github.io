@@ -14,7 +14,7 @@
 </head>
 
 <body>
-    <div style="background-color: #fff">
+    <div style="background-color: #fff; border-style: none; border-radius: 20px; margin: 20px 0 20px;">
 		<span style="text-align:center;text-decoration: underline;"><h1>West Marches Campaign</h1></span>
 		<div class="row" style="margin: 0 auto; overflow: hidden; padding: 20px;">
 			<div class="column" style="float: left; width: 33.33%;">

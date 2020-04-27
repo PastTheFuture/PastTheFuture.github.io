@@ -95,7 +95,9 @@
 				<br /> <a href="majorlocations\Ostenwall.html">Ostenwall</a> 
 			</div>
 			<div class="column" style="float: left; width: 33.33%;">
-				<span style="text-decoration: underline;"><strong>Factions</strong></span><br />
+				<span style="text-decoration: underline;"><strong>World Info</strong></span>
+				<br />  <a href="worldinfo\Deities.html">Major Deities</a> 
+				<br />  Timeline
 			</div>
 		</div>
     </div>

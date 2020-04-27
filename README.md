@@ -1,3 +1,3 @@
-[PastTheFuture.github.io](PastTheFuture.github.io)
+[PastTheFuture.github.io](https://pastthefuture.github.io/)
 
 Currently a wiki for a DnD campaign being run in my friend group.

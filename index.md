@@ -32,7 +32,7 @@
 				<br /> 
 				Tarkier (Michael)
 				<br />
-				<a href="https://cdn.discordapp.com/attachments/703069043258556507/703076141942046740/Thalia.pdf" target="_blank" rel="noopener">Thalia Quicksilver (Kate)</a>
+				<a href="https://docs.google.com/spreadsheets/d/1ozDWxeZpyCeoqRJe8qCxAPlXvuVen37f5DaeEgWSYL0/edit?usp=sharing" target="_blank" rel="noopener">Thalia Quicksilver (Kate)</a>
 				<br />
 				<a href="https://drive.google.com/file/d/1Y57sIrVjLGIrMqCv_FI7aBzOXXmMM8Vi/view?usp=sharing" target="_blank" rel="noopener">Vatra Skal (Cruz)</a>
 				<br />
